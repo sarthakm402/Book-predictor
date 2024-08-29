@@ -5,7 +5,7 @@ Overview
 The Book Predictor is a simple Python-based machine learning tool designed to recommend books similar to a given input book. It leverages basic text processing and similarity measurement techniques to find books with descriptions similar to the user's input.
 
 Features
-Book Recommendation: Provides a list of books with descriptions similar to the input book.
+Book Recommendation: Provides a list of all the books with descriptions similar to the input book.
 Text Vectorization: Converts book descriptions into numerical vectors using a count-based approach.
 Cosine Similarity: Measures similarity between books to generate recommendations.
 Installation
